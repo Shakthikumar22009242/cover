@@ -145,7 +145,8 @@ html
 ```
 
 ## OUTPUT:
-![Screenshot (252)](https://github.com/Shakthikumar22009242/cover/assets/120207509/adc63a4c-057b-4723-80c6-ad5eb1b8378e)
+![Screenshot (251)](https://github.com/Shakthikumar22009242/cover/assets/120207509/26585bce-fdcb-4d8a-a825-3a4f23918766)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
