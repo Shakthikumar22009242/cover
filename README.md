@@ -145,7 +145,8 @@ html
 ```
 
 ## OUTPUT:
-![Screenshot (251)](https://github.com/Shakthikumar22009242/cover/assets/120207509/26585bce-fdcb-4d8a-a825-3a4f23918766)
+![Screenshot (255)](https://github.com/Shakthikumar22009242/cover/assets/120207509/239182cf-1691-49eb-9b24-dd9bcff85fca)
+
 
 
 ## RESULT:
